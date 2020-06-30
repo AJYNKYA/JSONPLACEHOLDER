@@ -1,0 +1,32 @@
+{
+	"name": "New object 1",
+	"services": [{
+		"service": "new service1"
+	}, {
+		"service": "new service2"
+	}, {
+		"service": "new service3"
+	}, {
+		"service": "new service4"
+	}, {
+		"service": "new service5"
+	}],
+	"requirements": [{
+		"requirement": "new requirement1"
+	}, {
+		"requirement": "new requirement2"
+	}],
+	"location": {
+		"x": 0,
+		"y": 0,
+		"z": 0,
+		"unit": "mm"
+	},
+	"dimensions": {
+		"width": 0,
+		"height": 0,
+		"depth": 0,
+		"unit": "mm"
+	},
+	"sheet_name": "Tab1"
+}
